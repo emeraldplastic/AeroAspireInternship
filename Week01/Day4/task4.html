@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Responsive Demo</title>
+  <style>
+    body {
+      margin: 10px;
+      font-family: Arial, sans-serif;
+      background: #f9fafb;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      padding: 10px;
+    }
+    header, footer {
+      background: #2563eb;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      font-weight: bold;
+    }
+    main {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      width: 100%;
+      max-width: 750px;
+    }
+    .box {
+      padding: 20px;
+      border-radius: 12px;
+      color: rgb(255, 255, 255);
+    }
+    .box h2 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      font-size: 1.5rem;
+    }
+    .about { background: rgb(16, 6, 6); }
+    .contact { background: rgb(0, 0, 0); }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      .container {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    My Simple Responsive Website
+  </header>
+
+  <main>
+    <div class="container">
+      <div class="box about">
+        <h2>About:</h2>
+        <p>I am John Nikhil G ,currently studying CSE at AMCEC .<br> I am also pursuing an internship at AerAspire as a Software Developer Engineer. </p>
+      </div>
+      <div class="box contact">
+        <h2>Contact:</h2>
+        <p>Ph.no:8217384504<br>E-mail:<a href=mailto:john191121@gmail.com>john191121@gmail.com</a></p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    © 2025 Responsive Demo. All rights reserved.
+  </footer>
+</body>
+</html>

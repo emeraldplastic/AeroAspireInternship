@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Webpage</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header, footer {
+      background-color: rgb(173, 14, 14);
+      color:black;
+      text-align: center;
+      padding: 0%;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: row; /* PC/Laptop: side by side */
+      justify-content: center;
+      gap:30px;
+      margin-top: 30px;
+      padding: 1rem;
+    }
+
+    .about, .photo, .contact {
+      flex: 1;
+      margin: 10;
+      padding: 1%;
+      background-color: #c58e8e;
+      border-radius: 1px;
+    }
+
+    .photo {
+      text-align: center;
+    }
+
+    .photo img {
+      max-width: 50%;
+      height: auto;
+      border-radius: 1px;
+    }
+
+    footer {
+      margin-top: 20px;
+    }
+
+    /* 📱 Mobile responsiveness */
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column; /* Stack sections vertically */
+        padding: 1rem;
+      }
+
+      .about, .photo, .contact {
+        margin: 2rem 0; /* Add space between stacked boxes */
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>My Simple Webpage</h1>
+    <p>Welcome to my site!</p>
+  </header>
+
+  <div class="container">
+    <div class="about">
+      <h2>About Me</h2>
+      <p>I'm John Nikhil ,i am a student at AMCEC and am currently studying in 5th sem CSE.<br>I was born and bought up in Bangalore.<br>I really like to learn new things and experiment with anything that comes to mind.<br>
+        This is my first internship and i'm really excited!! </p>
+    </div>
+
+    <div class="photo">
+      <h2>My Photo</h2>
+      <img src="C:\Users\Dell\Pictures\Screenshots\jossi.png" alt="Me.">
+    </div>
+
+    <div class="contact">
+      <h2>Contact Me</h2>
+      <p>Email: john191121@email.com</p>
+      <p>Phone: +91 8217384504</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 My Website</p>
+  </footer>
+
+</body>
+</html>
+
