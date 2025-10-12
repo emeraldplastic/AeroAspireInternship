@@ -41,7 +41,20 @@ flask run
 
 ## App Screenshots:
 
-### Main Page:
+### Tasks:
 ![Screenshot1](flask_tasks1.png)
+
+
+### Main Page:
 ![Screenshot2](flask_tasks2.png)
+
+
+### GET:
+![GET:](get.png)
+
+
+
+### POST:
+![POST:](post.png)
+
 
