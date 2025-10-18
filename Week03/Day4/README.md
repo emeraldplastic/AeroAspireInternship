@@ -85,27 +85,27 @@ http://127.0.0.1:5000/api/v1/tasks/1
 
 *Main Page:*
 
-![alt text](mainpage-1.png) 
+![alt text](mainpage.png) 
 
 *Running Locally:*
 
-![alt text](locally-1.png) 
+![alt text](locally.png) 
 
 *Get:*
 
-![alt text](getd4-1.png) 
+![alt text](getd4.png) 
 
 *Post:*
 
-![alt text](postd4-1.png) 
+![alt text](postd4.png) 
 
 *Put:*
 
-![alt text](putd4-1.png)
+![alt text](putd4.png)
 
 *Delete:*
 
-![alt text](deld4-1.png)
+![alt text](deld4.png)
 
 
 
