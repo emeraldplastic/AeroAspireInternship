@@ -64,7 +64,7 @@ flask run
 ![alt text](<Screenshot 2025-10-19 021730.png>) 
 
 *Postman consistency:*
-![alt text](<Screenshot 2025-10-19 021803.png>) 
+![alt text](<Screenshot 2025-10-19 023302.png>)
 
 *Seeding:*
 ![alt text](<Screenshot 2025-10-19 021837.png>)
