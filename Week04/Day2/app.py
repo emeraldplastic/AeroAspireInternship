@@ -27,7 +27,7 @@ with app.app_context():
 
 @app.route("/")
 def home():
-    return jsonify({"message": "Welcome to the Task API! Visit /apidocs/ for documentation."})
+    return jsonify({"message": "Welcome to the Task API! Visit /tasks for documentation."})
 # GET all tasks
 @app.route('/tasks', methods=['GET'])
 def get_tasks():
