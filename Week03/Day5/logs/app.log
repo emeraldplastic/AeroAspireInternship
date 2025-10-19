@@ -1,0 +1,54 @@
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+127.0.0.1 - - [20/Oct/2025 01:37:05] "[33mGET / HTTP/1.1[0m" 404 -
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+ * Detected change in 'C:\\Users\\Dell\\Desktop\\Progress\\AeroAspireInternship-1\\week03\\day5\\app\\routes.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+ * Detected change in 'C:\\Users\\Dell\\Desktop\\Progress\\AeroAspireInternship-1\\week03\\day5\\run.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+ * Detected change in 'C:\\Users\\Dell\\Desktop\\Progress\\AeroAspireInternship-1\\week03\\day5\\tests\\test_auth.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+ * Detected change in 'C:\\Users\\Dell\\Desktop\\Progress\\AeroAspireInternship-1\\week03\\day5\\tests\\test_routes.py', reloading
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 127-921-998
+127.0.0.1 - - [20/Oct/2025 02:43:33] "[33mGET /profile%0A HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/Oct/2025 02:44:10] "[33mGET /profile%0A HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/Oct/2025 02:44:23] "[33mPOST /login%0A HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/Oct/2025 02:45:22] "[33mPOST /login%0A HTTP/1.1[0m" 404 -
+127.0.0.1 - - [20/Oct/2025 02:47:06] "[33mPOST /login%0A HTTP/1.1[0m" 404 -
+ * Detected change in 'C:\\Users\\Dell\\Desktop\\Progress\\AeroAspireInternship-1\\week03\\day5\\app\\__init__.py', reloading
+ * Restarting with stat
