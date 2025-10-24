@@ -24,10 +24,7 @@ Day2/
 - **GET /api/health** → Check if backend is running
 - **POST /api/echo** → Echoes JSON payload
 
-![alt text](<Screenshot 2025-10-24 230746.png>)
-
-
- ![alt text](<Screenshot 2025-10-24 230933.png>)
+![alt text](<Screenshot 2025-10-24 230746.png>) ![alt text](<Screenshot 2025-10-24 230933.png>)
 
 ## Frontend
 
@@ -35,7 +32,7 @@ Day2/
 
 - **Port:** 3000
 
-![alt text](<Screenshot 2025-10-25 001208.png>)
+
 
 ## Docker
 - Build and Run
@@ -49,7 +46,8 @@ Backend → http://localhost:5000
 Frontend → http://localhost:3000
 
 
-![alt text](<Screenshot 2025-10-25 000151.png>)
+![alt text](<Screenshot 2025-10-25 001208.png>)
 
+![alt text](<Screenshot 2025-10-25 000151.png>)
 
 

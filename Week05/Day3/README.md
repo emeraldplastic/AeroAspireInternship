@@ -68,5 +68,4 @@ Frontend: http://localhost:3000
 ## Screenshots
 
 ![alt text](<Screenshot 2025-10-25 022423.png>)
-
  ![alt text](<Screenshot 2025-10-25 022445.png>)
